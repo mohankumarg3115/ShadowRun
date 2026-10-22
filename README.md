@@ -66,7 +66,7 @@ Idea and design stage for DevHost 2026. Code will be added during the hackathon.
 
 | Name | Role |
 |---|---|
-| _Member 1_ | _Team lead_ |
-| _Member 2_ | _Backend_ |
-| _Member 3_ | _Frontend_ |
-| _Member 4_ | _Frontend_ |
+| Nikhil C | _Team lead_ |
+| Mohan Kumar G | _Backend_ |
+| Mahalakshmi G S | _Frontend_ |
+| Kushal K R | _Frontend_ |
