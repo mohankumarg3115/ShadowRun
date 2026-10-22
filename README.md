@@ -415,10 +415,10 @@ We will run our four demo scenarios plus normal tasks, and report:
 
 | Name | Role | Builds |
 |---|---|---|
-| _Member 1_ | _Team lead / ML_ | Planner, Checker (letter and follow the message), model speed tests |
-| _Member 2_ | _Backend_ | MCP safety layer, practice drawer, executor, database |
-| _Member 3_ | _Frontend_ | Dashboard: live feed, caught and fixed list, approval cards |
-| _Member 4_ | _Frontend_ | Demo company screens: inbox, customer table, forum, payments |
+| Mohan Kumar G |  _Backend_ | Planner, Checker (letter and follow the message), model speed tests |
+| Nikhil C | _Backend_ | MCP safety layer, practice drawer, executor, database |
+| Mahalakshmi G S | _Frontend_ | Dashboard: live feed, caught and fixed list, approval cards |
+| Kushal K R | _Frontend_ | Demo company screens: inbox, customer table, forum, payments |
 
 **Build order**
 
